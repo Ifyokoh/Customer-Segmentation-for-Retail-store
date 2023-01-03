@@ -1,2 +1,2 @@
 # Customer-Segmentation-for-Retail-store
-Clustering of different groups of customers with recommendations for segment buying
+Segmentation allows businesses to make better use of their marketing budgets and, importantly demonstrate a better knowledge of their customers’ needs and wants. Segmentation is done by dividing customers into different groups that share similar needs, the company can market to each group differently and focus on what each kind of customer needs at any given moment.
